@@ -4,6 +4,7 @@
 
 This is a daily planner application that allows users to plan and save entries throughout their work day. 
 
+<img width="1181" alt="Screen Shot 2022-04-18 at 1 27 03 AM" src="https://user-images.githubusercontent.com/95589049/163776351-3a34a506-7335-4021-a603-ac34dcf1558f.png">
 
 
 # Usage
@@ -16,7 +17,7 @@ This app runs directly in the browser.
 
 # Deployed Application
 
-
+https://ajaypalghuman.github.io/work-day-planner/
 
 # Technologies Used
 
